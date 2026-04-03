@@ -21,8 +21,8 @@ from rich.progress import Progress, SpinnerColumn, BarColumn, TextColumn, TimeRe
 
 console = Console()
 
-API_ID = 27640741         
-API_HASH = "5e4a2485be9aa1ce03d0cc503eaa3663"
+API_ID = 39013074         
+API_HASH = "f855b33fdd2797a6c8d1fa621b195011"
 
 DEFAULT_DELAY = 3.5
 REASONS_LIST = [
