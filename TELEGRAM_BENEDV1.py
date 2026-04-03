@@ -1,4 +1,4 @@
-#Nusatenggara Timur Development Coded By Rolandino!
+# Development Coded By Benxx!
 """
 """
 
@@ -179,7 +179,7 @@ async def add_number():
 
 
 if __name__ == "__main__":
-    console.print("[bold cyan] TELEGRAM BANEND BY 𝕽𝖔𝖑𝖆𝖓𝖉𝖎𝖓𝖔 [/bold cyan]")
+    console.print("[bold cyan] TELEGRAM BANEND BY Bͯͯeͯͯnͯͯxͯͯxͯ [/bold cyan]")
     console.print("1 Jalankan Report")
     console.print("2 Tambah Nomor Session")
     pilih = console.input("Pilih 1/2 : ").strip()
